@@ -1,0 +1,26 @@
+	date                             
+	clear
+	wc
+	kill
+	ls
+	cp
+	mv
+	pwd
+	cd
+	mkdir
+	rmdir
+	rm
+	ln 
+	touch
+	cat
+	uname
+	who
+	rename
+	head
+	tail
+	env
+
+
+
+Execution : $ gcc dash.c -o dash
+            $ ./dash
